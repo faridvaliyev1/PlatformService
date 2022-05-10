@@ -23,7 +23,7 @@ namespace PlatformService.Data{
 
         public Platform GetPlatformById(int Id)
         {
-            return _context.Platforms.First(p=>p.Id==Id);
+            return _context.Platforms.FirstOrDefault(p=>p.Id==Id);
         }
 
         public bool SaveChanges()
