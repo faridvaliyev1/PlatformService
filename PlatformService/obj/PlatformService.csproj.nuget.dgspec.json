@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/farid/Desktop/Projects/PlatformService/PlatformService.csproj": {}
+    "/Users/farid/Desktop/Projects/Microservices/PlatformService/PlatformService.csproj": {}
   },
   "projects": {
-    "/Users/farid/Desktop/Projects/PlatformService/PlatformService.csproj": {
+    "/Users/farid/Desktop/Projects/Microservices/PlatformService/PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/farid/Desktop/Projects/PlatformService/PlatformService.csproj",
+        "projectUniqueName": "/Users/farid/Desktop/Projects/Microservices/PlatformService/PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "/Users/farid/Desktop/Projects/PlatformService/PlatformService.csproj",
+        "projectPath": "/Users/farid/Desktop/Projects/Microservices/PlatformService/PlatformService.csproj",
         "packagesPath": "/Users/farid/.nuget/packages/",
-        "outputPath": "/Users/farid/Desktop/Projects/PlatformService/obj/",
+        "outputPath": "/Users/farid/Desktop/Projects/Microservices/PlatformService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/farid/.nuget/NuGet/NuGet.Config"
