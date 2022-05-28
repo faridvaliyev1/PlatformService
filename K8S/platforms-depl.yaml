@@ -23,7 +23,6 @@ metadata:
   name: platforms-clusterip-srv
 spec:
   type: ClusterIP
-  replicas: 1
   selector:
     app: platformservice
   ports:

@@ -23,7 +23,6 @@ metadata:
   name: commands-clusterip-srv
 spec:
   type: ClusterIP
-  replicas: 1
   selector:
     app: commandservice
   ports:
